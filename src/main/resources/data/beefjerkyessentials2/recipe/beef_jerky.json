@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "ingredient": {
+    "item": "minecraft:rotten_flesh"
+  },
+  "result": {
+    "id": "beefjerkyessentials2:beef_jerky"
+  },
+  "experience": 0.35,
+  "cookingtime": 200,
+  "group": "jerky"
+}

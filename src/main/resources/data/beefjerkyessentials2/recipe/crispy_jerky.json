@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "ingredient": {
+    "item": "beefjerkyessentials2:beef_jerky"
+  },
+  "result": {
+    "id": "beefjerkyessentials2:crispy_jerky"
+  },
+  "experience": 0.5,
+  "cookingtime": 50,
+  "group": "jerky"
+}

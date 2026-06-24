@@ -1,5 +1,6 @@
 package lol.ngakos.beefjerkyessentials2;
 
+import lol.ngakos.beefjerkyessentials2.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
 import net.minecraft.util.Identifier;
@@ -13,7 +14,7 @@ public class BeefJerkyEssentials2 implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-
+		ModItems.registerModItems();
 	}
 
 	public static Identifier id(String path) {
