@@ -12,3 +12,7 @@
 - Cooking time
 - Recipes
 - Translations
+
+## License & Credits
+* **Original Creator:** Massive credits to [LukieD4](https://www.curseforge.com/members/lukied4/projects) for the original mod concept, artwork, and design.
+* **License:** The original assets (textures, recipes, translations) are reused here under the terms of the **GNU General Public License v3.0 (GPL-3.0)**. A copy of this license is included in the repository.
