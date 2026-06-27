@@ -1,4 +1,4 @@
-# BeefJerkyEssentials2 - Fabric 1.21.1
+# BeefJerkyEssentials2 - Fabric 1.21 / 1.21.1
 ### This is a recreation of [LukieD4](https://www.curseforge.com/members/lukied4/projects)'s Beef Jerky Essentials mod ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/beef-jerky-essentials)/[Modrinth](https://modrinth.com/mod/beef-jerky-essentials))
 ## Why?
 ### The original mod is for Forge 1.18-1.20.6, I needed fabric 1.21.1
