@@ -11,3 +11,4 @@
 - Textures
 - Cooking time
 - Recipes
+- Translations
