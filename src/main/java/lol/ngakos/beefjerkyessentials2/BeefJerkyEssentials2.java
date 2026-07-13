@@ -1,5 +1,6 @@
 package lol.ngakos.beefjerkyessentials2;
 
+import lol.ngakos.beefjerkyessentials2.event.ZombieBurnDropHandler;
 import lol.ngakos.beefjerkyessentials2.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -15,6 +16,7 @@ public class BeefJerkyEssentials2 implements ModInitializer {
 	@Override
 	public void onInitialize() {
 		ModItems.registerModItems();
+		ZombieBurnDropHandler.register();
 	}
 
 	public static Identifier id(String path) {
