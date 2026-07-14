@@ -24,6 +24,7 @@ public class ZombieBurnDropHandler {
                     ItemEntity.class,
                     entity.getBoundingBox().expand(1.25),
                     itemEntity -> itemEntity.isAlive() && itemEntity.getStack().isOf(Items.ROTTEN_FLESH)
+                                         && itemEntity.getItemAge() < 5
             )) {
                 ItemStack oldStack = drop.getStack();
                 drop.setStack(new ItemStack(ModItems.COOKED_JERKY, oldStack.getCount()));
